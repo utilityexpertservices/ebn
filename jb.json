@@ -6,6 +6,7 @@
       "Agenda": [ "Meeting1", "Meeting2", "Meeting3" ],
       "Background" : " Background of ABC : This is a test backgound of the company .A company overview (also known as company information or a company summary) is an essential part of a business plan. Your company overview should be exactly what it sounds like: an overview containing all of the most important points about your company. It usually appears after the executive summary.This is typically the shortest chapter of a business plan document, but that doesn’t reduce its importance. If you’re presenting this plan to people outside of your company, this is your opportunity to introduce yourself and your business, and you are going to want to put your best foot forward.Imagine that the person reading your business plan document has never heard of you, and doesn’t know anything about your business.",
       "Team": [ "Mr X", "Mr Y", "Mr Z" ],
-      "Profile": [ "Senior Vice President : More than 20 Years exp", "Head of IT : More than 27 Years exp", "Program Manager : More than 17 Years exp" ]
+      "Profile": [ "Senior Vice President : More than 20 Years exp", "Head of IT : More than 27 Years exp", "Program Manager : More than 17 Years exp" ],
+      "Scope": "Developing a business plan that suits your purposes means tailoring a subject to your audience. Sometimes that can mean eliminating a section that isn’t applicable to your current project. If you’re writing this chapter for an internal business plan, you could approach writing a company overview as a status update on the company. "
    }
 ]
