@@ -2,15 +2,16 @@
    {
       "Name": "ABC",
       "Date": "12/15/2017",
-      "Agenda": "[{
-      "a": "08:00-08:30:Breakfast",
-      "2": "08:30-09:30:Travel to ABC Park",
-      "3": "09:30-10:00:Meet and Greet with Team",
-      "4": "10:00-11:30:Visit Executive Briefing Center",
-      "5": "11:30-12:30:Executive Connect",
-      "6": "12:00-01:30:Lunch",
-      "7": "01:30-03:30:Program Introspection",
-      "8": "03:30-04:00:Leave for Airport"
-      }]"
+      "Agenda": 
+       [
+			{ "time": "5001", "topic": "None" },
+			{ "time": "5002", "topic": "Glazed" },
+			{ "time": "5005", "topic": "Sugar" },
+			{ "time": "5007", "topic": "Powdered Sugar" },
+			{ "time": "5006", "topic": "Chocolate with Sprinkles" },
+			{ "time": "5003", "topic": "Chocolate" },
+			{ "time": "5004", "topic": "Maple" }
+		] 
+   
    }
 ]
