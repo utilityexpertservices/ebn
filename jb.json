@@ -2,16 +2,6 @@
    {
       "Name": "ABC",
       "Date": "12/15/2017",
-      "Agenda": 
-       [
-			{ "time": "5001", "topic": "None" },
-			{ "time": "5002", "topic": "Glazed" },
-			{ "time": "5005", "topic": "Sugar" },
-			{ "time": "5007", "topic": "Powdered Sugar" },
-			{ "time": "5006", "topic": "Chocolate with Sprinkles" },
-			{ "time": "5003", "topic": "Chocolate" },
-			{ "time": "5004", "topic": "Maple" }
-		] 
-   
+      "Time": [ "08:00-09:00", "09:00-10:00", "10:00-11:00" ]
    }
 ]
