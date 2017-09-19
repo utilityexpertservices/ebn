@@ -2,7 +2,7 @@
    {
       "Name": "ABC",
       "Date": "12/15/2017",
-      "AGENDA": "DETAILS",
+      "AGENDA": {
       "8:00-8:30": "Breakfast",
       "8:30-9:30": "Travel to ABC Park",
       "9:30-10:00": "Meet and Greet with Team",
@@ -11,5 +11,6 @@
       "12:00-1:30": "Lunch",
       "1:30-3:30": "Program Introspection",
       "3:30": "Leave for Airport"
+      }
    }
 ]
