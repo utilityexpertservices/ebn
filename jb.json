@@ -3,14 +3,14 @@
       "Name": "ABC",
       "Date": "12/15/2017",
       "Agenda": {
-      "8:00-8:30": "Breakfast",
-      "8:30-9:30": "Travel to ABC Park",
-      "9:30-10:00": "Meet and Greet with Team",
-      "10:00-11:30": "Visit Executive Briefing Center",
-      "11:30-12:30": "Executive Connect",
-      "12:00-1:30": "Lunch",
-      "1:30-3:30": "Program Introspection",
-      "3:30": "Leave for Airport"
+      "1": "08:00-08:30:Breakfast",
+      "2": "08:30-09:30:Travel to ABC Park",
+      "3": "09:30-10:00:Meet and Greet with Team",
+      "4": "10:00-11:30:Visit Executive Briefing Center",
+      "5": "11:30-12:30:Executive Connect",
+      "6": "12:00-01:30:Lunch",
+      "7": "01:30-03:30:Program Introspection",
+      "8": "03:30-04:00:Leave for Airport"
       }
    }
 ]
