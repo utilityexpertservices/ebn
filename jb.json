@@ -1,1 +1,20 @@
-[{"Name":"ABC","Date":"12/15/2017","AGENDA":"DETAILS","8:00-8:30":"Breakfast","8:30-9:30":"Travel to ABC Park","9:30-10:00":"Meet and Greet with Team","10:00-11:30":"Visit Executive Briefing Center","11:30-12:30":"Executive Connect","12:00-1:30":"Lunch","1:30-3:30":"Program Introspection","3:30":"Leave for Airport"}]
+[
+   {
+      "Name": "ABC",
+      "Date": "12/15/2017",
+      "AGENDA": "DETAILS",
+      "8:00-8:30": "Breakfast",
+      "8:30-9:30": "Travel to ABC Park",
+      "9:30-10:00": "Meet and Greet with Team",
+      "10:00-11:30": "Visit Executive Briefing Center",
+      "11:30-12:30": "Executive Connect",
+      "12:00-1:30": "Lunch",
+      "1:30-3:30": "Program Introspection",
+      "3:30": "Leave for Airport"
+   },
+   {
+      "Name": "BACKGROUND",
+      "ABOUT": "One	of	the	largest	Gas	&	Electricity	retailer	in	North	America	and	is	ranked	as	the	#1	residential	retail	electricity	supplier	and	the	#2 non-residential	retail	electricity	supplier in	DNV	GL	April	2016	update.	They	are	part	of	the	Centrica	group	in	the	UK. Revenue	in	2015	: 16.2	bn	USD.	Employee	strength	in	North	America:	6200.Provides	gas	and	electricity	and	home	energy	services	to	5	million	customersacross	50	districts	in	US	plus	District	of	Columbia	and	10	provinces	in	Canada.Has	3	lines	of	business	– (DEB)	Direct	Energy	Business	(	catering	to	B2B	customers),	(DER)	Direct	Energy	Retail	&	(DES)	Direct	Energy	Services	(	catering	to	both B2B	&	B2C).	DE	is	in	the	process	of	merging	DER	&	DES	into	Direct	Energy	Home<br/><br/>Commitment	to	the	society	- In	December	2015	committed	to	$5	million to	Texas	Children’s	Hospital,	the	Children’s	Miracle	Network	Hospital	in	Houston,	to	help	expand	Texas	Children’s	Heart	Center.",
+      "COMPETITORS": "Cognizant	Technologies : They	are	incumbent	who	provide	Application	support	for	DEB	&DER . Entire	BAU	QA	services	are	provided	by	them. Under	Lithium	TCS	&	Cognizant	will	be	the	2	vendors	competing	for	all	Project	QA work	in	Direct	Energy.Computer	Science	Corporation	: They	provide	T&M	based	services	for	QA.	DE’s	QA	organization	is	mostly	populated	by	CSC.	QA	services	for	Project	Unify	is	being	provided	by	them."   
+   }
+]
