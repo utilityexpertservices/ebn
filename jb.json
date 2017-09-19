@@ -3,6 +3,7 @@
       "Name": "ABC",
       "Date": "12/15/2017",
       "Time": [ "08:00-09:00", "09:00-10:00", "10:00-11:00" ],
-      "Agenda": [ "Meeting1", "Meeting2", "Meeting3" ]
+      "Agenda": [ "Meeting1", "Meeting2", "Meeting3" ],
+      "Background" : " This is a test backgound of the company"
    }
 ]
